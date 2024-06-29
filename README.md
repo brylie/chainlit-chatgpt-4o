@@ -1,6 +1,6 @@
-# Chainlit George Fox
+# Chainlit ChatGPT 4o
 
-Using Chainlit to build a retrieval augmented generator chat based on the writings of George Fox.
+Using Chainlit to interact with ChatGPT-4o
 
 ## Setup Instructions
 
@@ -8,8 +8,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/brylie/chainlit-gpt-4o.git
-   cd chainlit-gpt-4o
+   git clone https://github.com/brylie/chainlit-chatgpt-4o.git
+   cd chainlit-chatgpt-4o
    ```
 
 2. **Create a virtual environment:**
