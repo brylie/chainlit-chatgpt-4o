@@ -8,8 +8,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/brylie/chainlit-george-fox.git
-   cd chainlit-george-fox
+   git clone https://github.com/brylie/chainlit-gpt-4o.git
+   cd chainlit-gpt-4o
    ```
 
 2. **Create a virtual environment:**
